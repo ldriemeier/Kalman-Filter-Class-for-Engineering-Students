@@ -2,4 +2,4 @@ The class focuses on the theory of the Kalman filter, with an emphasis on proble
 * Expository Segment: Concepts are explained using provided slides.
 * Interactive Exercises and Challenge: Students engage in exercises and discussions, culminating in a challenge that incorporates control theory.
 
-Throughout both parts, students use a provided Colab notebook to apply concepts and solve problems interactively.
+Throughout both parts, students use a provided  Google Colab notebook  to apply concepts and solve problems interactively.
