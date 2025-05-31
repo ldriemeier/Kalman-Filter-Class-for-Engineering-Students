@@ -1,0 +1,8 @@
+A set of lectures inspired in active learning methodologies is proposed to teach Kalman Filter, a subject considered difficult by engineering students and, often, even by engineers. The lectures are presented in detail so that they can be reproduced in any engineering course.
+The active learning class proposed methodology to introduce the theory of Kalman filters to undergraduate engineering students is composed by the following steps:
+• Motivation - is the very reason why the student should learn the subject. The robot localization problem is used here;
+• Class Prep - recollection of theories already transmitted in previous classes and necessary for the full understanding of the subject. Particularly, fourth year engineering students are supposed to have a solid background about Bayes theorem and multivariate Gaussian distribution;
+• Comprehension exam - a short test is given at the beginning of the class to measure student understanding about the class prep material;
+• Face-to-Face Learning - Kalman Filter theory is introduced to the students. During the lecture, they are given the time to go over the material written on the Notebook, discuss with the colleagues, think about the content and ask, if they have any questions;
+• Challenge Problem - at the end of the lecture, cooperative learning is induced when a challenging problem is proposed to students, and they work on solving it in teams;
+• Lab Class - to close the learning process, it is introduced a practical lecture focused on collaborative learning. The students collaborate in teams designing a filter applied to a computer vision problem.
